@@ -5,7 +5,7 @@
 
 ※JPT560点は、JLPT N2ぐらいと思います。（JPT公式サイト情報）
 
-※以前アカウントは[「sieunnnn」](https://github.com/sieunnnn)です。
+※以前アカウントは「[sieunnnn](https://github.com/sieunnnn)」です。
 
 <br>
 
