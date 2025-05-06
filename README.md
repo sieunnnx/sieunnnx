@@ -10,13 +10,13 @@
 <br>
 
 ## 技術スタック
-⚫️ **言語**: Java, TypeScript, Swift（学習中）
+🔵 **言語**: Java, TypeScript, Swift（学習中）
 
-⚫️ **フレームワーク**: Spring Boot
+🔵 **フレームワーク**: Spring Boot
 
-⚫️ **データ**:《RDBMS》MySQL, PostgreSQL ｜《NoSQL》Redis
+🔵 **データ**:《RDBMS》MySQL, PostgreSQL ｜《NoSQL》Redis
 
-⚫️ **その他**: Git, Docker, AWS Services, IntelliJ, Xcode
+🔵 **その他**: Git, Docker, AWS Services, IntelliJ, Xcode
 
 <br>
 
